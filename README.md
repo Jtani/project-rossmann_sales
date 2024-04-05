@@ -40,7 +40,7 @@ Para criar a solução, foram utilizadas as seguintes ferramentas:
 ![alt text](img/h1.png)
 
 ### 2 - Lojas vendem mais ao longo dos anos
-![alt text](img/h7.png)
+![alt text](img/h7-1.png)
 
 ### 3 - Lojas tendem a vender mais no 2°semestre
 ![alt text](img/h8.png)

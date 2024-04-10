@@ -61,8 +61,9 @@ A seguir podemos ver o resultado gráfico do nosso modelo assim como os valores 
 |	best_scenario  |	$299,618,285.15 |
 
 ## 6. Bot no Telegram
-Criamos um bot no telegram que nos dá a previsão de 6 semanas da loja que quisermos encontrar. Caso queira testar basta procurar por este perfil t.me/rossmann36_bot
-![alt text](img/telegram.jpeg)
+Criamos um bot no telegram que nos dá a previsão de 6 semanas da loja que quisermos encontrar. Caso queira testar basta procurar por este perfil: t.me/rossmann36_bot
+
+<img src="img/telegram.jpeg" alt="alt text" width="300" height="600">
 
 
 ## 7.Conclusão

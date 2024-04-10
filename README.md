@@ -60,10 +60,15 @@ A seguir podemos ver o resultado gráfico do nosso modelo assim como os valores 
 |	worst_scenario |	$297,940,565.52 |
 |	best_scenario  |	$299,618,285.15 |
 
-## 6.Conclusão
+## 6. Bot no Telegram
+Criamos um bot no telegram que nos dá a previsão de 6 semanas da loja que quisermos encontrar. Caso queira testar basta procurar por este perfil t.me/rossmann36_bot
+![alt text](img/telegram.jpeg)
+
+
+## 7.Conclusão
 Conseguimos realizar a previsão de vendas com sucesso. Apesar de ser um primeiro ciclo, o resultado já poderá ser utilizado para a análise do negócio.
 
-## 7.Próximos passos
+## 8.Próximos passos
 
 - Realizar novo ciclo do CRISP
 - Gerar mais insigths
